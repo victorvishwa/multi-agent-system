@@ -40,14 +40,3 @@ git clone https://github.com/your-username/youtube-intel-agent.git
 cd youtube-intel-agent
 
 
-## 🖼️ Demo Screenshots
-
-### 🎥 YouTube Agent Summarizing a Video
-![YouTube Agent Summary](assets/video-summary.png)
-
-### 🌐 Web Agent Fetching Latest News
-![Web Agent News](assets/web-agent-result.png)
-
-### 🧠 Terminal Output of Team Agent
-![Team Agent Terminal Output](assets/terminal-output.png)
-
