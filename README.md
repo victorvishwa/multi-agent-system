@@ -28,7 +28,7 @@ This project demonstrates how to build a multi-agent system using Groq’s `deep
 ![YouTube Agent Summary](1.png)
 
 ### 🧠 Terminal Output of Team Agent
-![Team Agent Terminal Output](.png)
+![Team Agent Terminal Output](Screenshot 2025-04-05 224926.png.png)
 
 ---
 ## 🚀 Getting Started
