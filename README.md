@@ -22,6 +22,15 @@ This project demonstrates how to build a multi-agent system using Groq’s `deep
 
 ---
 
+## 🖼️ Demo Screenshots
+
+### 🎥 YouTube Agent Summarizing a Video & 🌐 Web Agent Fetching Latest News
+![YouTube Agent Summary](1.png)
+
+### 🧠 Terminal Output of Team Agent
+![Team Agent Terminal Output](.png)
+
+---
 ## 🚀 Getting Started
 
 ### 1. Clone the Repo
